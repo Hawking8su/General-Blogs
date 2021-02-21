@@ -75,7 +75,7 @@
 
 参考链接：	
 
-1. 官方配置文档：[Typora解决图片自动上传问题](!https://support.typora.io/Upload-Image/)
-2. 官方配置文档：[PicGo App配置Github图床](!https://picgo.github.io/PicGo-Doc/zh/guide/config.html#github%E5%9B%BE%E5%BA%8A)
-3. [手把手教你用Typora自动上传到picgo图床【教程与排坑】](!https://www.jianshu.com/p/4cd14d4ceb1d)
-4. [使用Typora+PicGo+gitee快速编辑](!https://www.jianshu.com/p/f6ccdae3c95c)
+1. 官方配置文档：[Typora解决图片自动上传问题](https://support.typora.io/Upload-Image/)
+2. 官方配置文档：[PicGo App配置Github图床](https://picgo.github.io/PicGo-Doc/zh/guide/config.html#github%E5%9B%BE%E5%BA%8A)
+3. [手把手教你用Typora自动上传到picgo图床【教程与排坑】](https://www.jianshu.com/p/4cd14d4ceb1d)
+4. [使用Typora+PicGo+gitee快速编辑](https://www.jianshu.com/p/f6ccdae3c95c)
