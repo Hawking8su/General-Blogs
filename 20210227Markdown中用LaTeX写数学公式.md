@@ -8,9 +8,11 @@
 
 - Inline mode（行间公式）
 
-  这是一个行间公式  $y = x^2$
+  这是一个行间公式 `$y = x^2$`： $y = x^2$
 
 - Display mode（独立公式）
+
+  `$$y = x^2$$`
 
 
 $$
@@ -76,17 +78,36 @@ $$
 - 二元一次方程 + 求根公式
 
   二元一次方程：
+  
+  ````latex
+  y = a\cdot x^2 + b\cdot x + c
+  ````
+
   $$
   y = a\cdot x^2 + b\cdot x + c
   $$
   
-
   y=0时，求根公式：
+  
+  ```latex
+  x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+  ```
+  
+  
   $$
   x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
   $$
   
 - 宏观经济学中的泰勒公式
+  
+  ```latex
+  \begin{aligned}
+  &\text{Target nominal short-tem interest rate}\\
+  & = (r_{real} + i_{target}) + 0.5(GDP_{expect} + GDP_{target}) + 0.5(i_{expect} - i_{target})
+  \end{aligned}
+  ```
+  
+  
   $$
   \begin{aligned}
   &\text{Target nominal short-tem interest rate}\\
