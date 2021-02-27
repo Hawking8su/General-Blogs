@@ -1,10 +1,10 @@
-# Markdown中用LaTeX写数学公式
+# 如何在Markdown中用LaTeX写数学公式
 
 环境：在Typora用Markdown写LaTeX，注意打开下面的偏好设置：
 
 ![image-20210227181715493](https://raw.githubusercontent.com/Hawking8su/Images/main/20210227185335.png)
 
-## 插入公式
+## Markdown中插入LaTeX公式
 
 - Inline mode（行间公式）
 
@@ -21,7 +21,7 @@ $$
 
 
 
-## 基础语法
+## LaTeX基础语法
 
 | 说明 | LaTex | 输出                           |
 | ----- | ----- | ---------- |
