@@ -25,6 +25,8 @@ $$
 
 ![image-20210227185944967](https://raw.githubusercontent.com/Hawking8su/Images/main/20210227190956.png)
 
+![image-20210227190219314](https://raw.githubusercontent.com/Hawking8su/Images/main/20210227193157.png)
+
 ![image-20210227190007389](https://raw.githubusercontent.com/Hawking8su/Images/main/20210227190957.png)
 
 
@@ -52,17 +54,17 @@ $$
   $$
   x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
   $$
-  
-  
-  ![image-20210227190219314](https://raw.githubusercontent.com/Hawking8su/Images/main/20210227191000.png)
+  ![image-20210227190219314](https://raw.githubusercontent.com/Hawking8su/Images/main/20210227193229.png)
   
 - 宏观经济学中的泰勒公式：
 
   ```latex
+  $$
   \begin{aligned}
   &\text{Target nominal short-tem interest rate}\\
   & = (r_{real} + i_{target}) + 0.5(GDP_{expect} + GDP_{target}) + 0.5(i_{expect} - i_{target})
   \end{aligned}
+  $$
   ```
 
 ![image-20210227190202122](https://raw.githubusercontent.com/Hawking8su/Images/main/20210227191001.png)
