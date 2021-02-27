@@ -21,13 +21,13 @@ $$
 
 ## 基础语法
 
-![image-20210227185926673](E:\04_Blog\00_GithubRepos\General-Blogs\20210227Markdown中用LaTeX写数学公式-截图版.assets\image-20210227185926673.png)
+![image-20210227185926673](https://raw.githubusercontent.com/Hawking8su/Images/main/20210227190955.png)
 
-![image-20210227185944967](E:\04_Blog\00_GithubRepos\General-Blogs\20210227Markdown中用LaTeX写数学公式-截图版.assets\image-20210227185944967.png)
+![image-20210227185944967](https://raw.githubusercontent.com/Hawking8su/Images/main/20210227190956.png)
 
-![image-20210227190007389](E:\04_Blog\00_GithubRepos\General-Blogs\20210227Markdown中用LaTeX写数学公式-截图版.assets\image-20210227190007389.png)
+![image-20210227190007389](https://raw.githubusercontent.com/Hawking8su/Images/main/20210227190957.png)
 
-![image-20210227190021730](E:\04_Blog\00_GithubRepos\General-Blogs\20210227Markdown中用LaTeX写数学公式-截图版.assets\image-20210227190021730.png)
+![image-20210227190021730](https://raw.githubusercontent.com/Hawking8su/Images/main/20210227190958.png)
 
 其他：
 
@@ -42,13 +42,11 @@ $$
 - 二元一次方程 + 求根公式
 
   二元一次方程：
-  
-  
   $$
   y = a\cdot x^2 + b\cdot x + c
-$$
+  $$
   
-  ![image-20210227190048577](E:\04_Blog\00_GithubRepos\General-Blogs\20210227Markdown中用LaTeX写数学公式-截图版.assets\image-20210227190048577.png)
+![image-20210227190048577](https://raw.githubusercontent.com/Hawking8su/Images/main/20210227190959.png)
   
   y=0时，求根公式：
   $$
@@ -56,7 +54,7 @@ $$
   $$
   
   
-  ![image-20210227190219314](E:\04_Blog\00_GithubRepos\General-Blogs\20210227Markdown中用LaTeX写数学公式-截图版.assets\image-20210227190219314.png)
+  ![image-20210227190219314](https://raw.githubusercontent.com/Hawking8su/Images/main/20210227191000.png)
   
 - 宏观经济学中的泰勒公式：
 
@@ -67,7 +65,7 @@ $$
   \end{aligned}
   ```
 
-![image-20210227190202122](E:\04_Blog\00_GithubRepos\General-Blogs\20210227Markdown中用LaTeX写数学公式-截图版.assets\image-20210227190202122.png)
+![image-20210227190202122](https://raw.githubusercontent.com/Hawking8su/Images/main/20210227191001.png)
 
 ## 参考链接
 
