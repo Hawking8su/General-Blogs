@@ -27,7 +27,7 @@ $$
 
 ![image-20210227190007389](https://raw.githubusercontent.com/Hawking8su/Images/main/20210227190957.png)
 
-![image-20210227190021730](https://raw.githubusercontent.com/Hawking8su/Images/main/20210227190958.png)
+
 
 其他：
 
