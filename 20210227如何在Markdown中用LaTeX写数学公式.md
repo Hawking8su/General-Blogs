@@ -63,6 +63,7 @@ $$
 | 花括号 | `\{a\}` | $\{a\}$ |
 | 插入文字 | \text{apple} | $\text{apple}$ |
 | 空格 | \quad | $(\quad)$ |
+| 波浪线 | \sim | $\sim$ |
 
 
 其他：
